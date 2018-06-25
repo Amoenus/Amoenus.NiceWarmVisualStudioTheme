@@ -1,0 +1,74 @@
+<UserSettings>
+    <ApplicationIdentity version="15.0"/>
+    <ToolsOptions>
+        <ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+    </ToolsOptions>
+    <Category name="Environment_Group" RegisteredName="Environment_Group">
+        <Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+            <PropertyValue name="Version">2</PropertyValue>
+            <FontsAndColors Version="2.0">
+                <Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}"/>
+                <Categories>
+                    <Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
+                        <Items>
+                            <Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
+                        <Items>
+                            <Item Name="Odd Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Even Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Not Downloaded" Foreground="0x00999999" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Target Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Source Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Identical content" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+                            <Item Name="Different content" Foreground="0x000014E5" Background="0x00FFFFFF" BoldFont="No"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="Fira Code Medium" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items>
+                            <Item Name="viasfora.rainbow.5" Foreground="0x009314FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.rainbow.4" Foreground="0x00EE687B" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.rainbow.2" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.keyword.visibility" Foreground="0x00EE687B" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Type Parameter Identifier" Foreground="0x00B0C94E" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Delegate Identifier" Foreground="0x00B0C94E" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Interface Identifier" Foreground="0x00B0C94E" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Enum Identifier" Foreground="0x00A3D7B8" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Class Identifier" Foreground="0x00B0C94E" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper C++ Local Variable Identifier" Foreground="0x0000FF7F" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper C++ Namespace Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper IL Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper JavaScript Function Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Stack Trace Method" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Namespace Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Operator Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Extension Method Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="ReSharper Method Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Tuple Component Name" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Local Function Identifier" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Local Variable Identifier" Foreground="0x0000FF7F" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Property Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Field Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Event Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ReSharper Constant Identifier" Foreground="0x0000FF7F" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="viasfora.keyword.flowcontrol" Foreground="0x0032CD32" Background="0x01000001" BoldFont="No"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{34F54DB8-3D69-4D94-ABD5-BA1D717AB8BE}" FontName="Tahoma" FontSize="8" CharSet="0" FontIsDefault="No">
+                        <Items/>
+                    </Category>
+                    <Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontName="Fira Code Medium" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items/>
+                    </Category>
+                    <Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontName="Fira Code Medium" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items/>
+                    </Category>
+                    <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontName="Fira Code Medium" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items/>
+                    </Category>
+                </Categories>
+            </FontsAndColors>
+        </Category>
+    </Category>
+</UserSettings>
