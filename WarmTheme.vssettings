@@ -52,6 +52,17 @@
                             <Item Name="ReSharper Field Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
                             <Item Name="ReSharper Event Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
                             <Item Name="ReSharper Constant Identifier" Foreground="0x0000FF7F" Background="0x01000001" BoldFont="Yes"/>
+							<Item Name="ASD-ESH.Definition.Property" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Parameter" Foreground="0x00B0C94E" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Namespace" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.MethodStatic" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.MethodExtension" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Method" Foreground="0x004080FF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Local" Foreground="0x0000FF7F" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Enum" Foreground="0x00FF79C6" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.FieldConstant" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Field" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="ASD-ESH.Definition.Event" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
                             <Item Name="viasfora.keyword.flowcontrol" Foreground="0x0032CD32" Background="0x01000001" BoldFont="No"/>
                         </Items>
                     </Category>
